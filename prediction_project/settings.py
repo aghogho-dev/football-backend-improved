@@ -33,7 +33,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     "127.0.0.1",
     "localhost",
-    "football-prediction-vbh7.onrender.com",
+    "football-backend-improved.onrender.com",
 ]
 
 
@@ -140,3 +140,4 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     # "*.vercel.app",
 ]
+
